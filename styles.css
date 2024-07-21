@@ -69,12 +69,12 @@ body {
   text-decoration: none;
   color: whitesmoke;
   border-radius: 5px;
-  transition-duration: 0.5s;
+  transition-duration: 0.3s;
 }
 
 .social-button:hover,
 .social-button:focus {
   background-color: #798239;
-  transition-duration: 0.5s;
-  transform: scale(1.1);
+  transition-duration: 0.3s;
+  transform: scale(1.03);
 }
