@@ -76,5 +76,5 @@ body {
 .social-button:focus {
   background-color: #798239;
   transition-duration: 0.3s;
-  transform: scale(1.03);
+  transform: translateX(5px);
 }
